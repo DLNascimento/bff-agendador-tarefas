@@ -128,4 +128,4 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos avançados de
 - Documentação interativa de APIs com Swagger
 
 ### Autor
-Diego Lopes do Nascimento - [Linkedin](www.linkedin.com/in/diego-nascimento-b33311221)
+Diego Lopes do Nascimento - [Linkedin](https://www.linkedin.com/in/diego-nascimento-b33311221)
